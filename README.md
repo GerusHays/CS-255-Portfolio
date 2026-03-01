@@ -113,9 +113,9 @@ This structured approach helps ensure the system meets both technical and busine
 ---
 
 ## Repository Contents
-Business-Requirements-Document.docx
-System-Design-Document.docx
-README.md
+- Business-Requirements-Document.docx
+- System-Design-Document.docx
+- README.md
 
 ---
 
